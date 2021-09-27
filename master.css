@@ -1,0 +1,65 @@
+.container{
+background-color:silver;
+width: 800px;
+overflow: hidden;
+
+
+}
+
+.container section{
+    background-color: cornflowerblue;
+    float: left;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+    margin-bottom: 15px;
+    margin-left: 15px;
+}
+
+.one{
+    margin: 15px;
+    width: calc(100% - 30px);
+}
+
+.third{
+    
+    width: calc((100% - 60px)/3);
+}
+
+.half{
+
+    width: calc((100% - 45px)/2);
+}
+
+.fourth{
+ width: calc((100% - 75px)/4);
+}
+
+/*تكليف عدد 02*/
+
+div {
+    margin: 20px auto;
+    width: 300px;
+    font-weight: bold;
+    font-size: 1rem;
+    padding: 20px;
+    
+    color: black;
+  }
+
+  .normal{
+    background-color: silver; /* Get The Background From Image */
+
+  }
+
+  .onee{
+    background-color: #c0c0c00d;;
+    opacity: 1; /* Get The Background From Image */
+  }
+
+  .two{
+    background-color: silver; /* Get The Background From Image */
+    opacity: .1;
+  }
+
+
