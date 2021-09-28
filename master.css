@@ -62,4 +62,42 @@ div {
     opacity: .1;
   }
 
+/*تكليف عدد 01 للدروس من 30 الى 33*/
+div{
+  width: 100px;
+  height: 100px;
+}
+
+.green{
+  background-color: green;
+  position: absolute;
+  z-index: 3;
+  margin-top: 15px;
+  margin-left: 15px;
+}
+
+.red{
+  background-color: red;
+  position: absolute;
+  z-index: 4;
+  margin-top: 22px;
+  margin-left: 27px;
+}
+
+.blue{
+  background-color: blue;
+  position: absolute;
+  z-index: 2;
+  margin-left: 0px;
+  margin-top: 7px;
+ 
+  }
+
+  .black{
+    background-color: black;
+    position: absolute;
+    z-index: 1;
+    margin-top: 15px;
+  }
+
 
