@@ -100,4 +100,39 @@ div{
     margin-top: 15px;
   }
 
+/* تكليف عدد 04 للدروس من 30 الى 33*/
 
+table{
+  width: 700px;
+  
+  border-spacing: 1px;
+  text-align: center;
+  border-bottom:2px solid green ;
+}
+
+table thead td{
+background-color: dimgray;
+text-align: center;
+color: white;
+text-transform: capitalize;
+font-family: sans-serif;
+}
+
+table td{
+  background-color: #eee;
+  padding: 15px;
+  text-transform: capitalize;
+  font-family: sans-serif;
+}
+
+
+table td #vue{
+  background-color: rgb(44, 197, 224);
+  width: 50px;
+  
+}
+
+#del{
+  background-color: rgba(255, 0, 255, 0.424);
+ 
+}
